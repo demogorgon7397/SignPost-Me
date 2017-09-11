@@ -1,0 +1,2 @@
+# SignPost-Me
+This project was done by me as a Final Year Project at Liverpool University, UK. Student Support Services regularly assist students to access appropriate support by signposting them to relevant external organisations e.g. Liverpool Student Homes, Action for Blind People. The Team wanted an App which brings this local information together into one place. The App has the functionality to enable a search on key words e.g. Epilepsy, this could bring up Mersey region Epilepsy Association information.
